@@ -4,6 +4,6 @@ Mine Invaders is a very simple game that I made in about June 2014, to introduce
 
 ## To Do List
 
-- [] Saved scores
-- [] Online leaderboards
-- [] Port to Android and iOS
+- [ ] Saved scores
+- [ ] Online leaderboards
+- [ ] Port to Android and iOS
